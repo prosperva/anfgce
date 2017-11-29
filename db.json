@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Annual Banquet 2017",
+      "time" : "2017-12-01",
+      "info":"Free event"
     }
   ],
   "profile": {
